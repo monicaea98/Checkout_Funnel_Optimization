@@ -69,3 +69,5 @@ Although the new checkout interface improves conversion at intermediate stages, 
 * 📈 **Matplotlib / Seaborn** — visualization of funnel performance
 * 🧮 **Statistical Testing** — comparison of conversion rates
 * 📘 **Jupyter Notebook** — interactive analysis
+
+https://public.tableau.com/views/Proyecto_14_17624566357440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
